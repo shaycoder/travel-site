@@ -9,7 +9,7 @@ let stickyHeader = new StickyHeader();
 new RevealOnScreen(document.querySelectorAll(".feature-item"), 75);
 new RevealOnScreen(document.querySelectorAll(".testimonial"), 60);
 let mobileMenu = new MobileMenu();
-
+    
 /*
 document.querySelectorAll('.open-modal').forEach(el => {
     el.addEventListener("click", e => {
